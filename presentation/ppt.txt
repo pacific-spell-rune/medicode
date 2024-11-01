@@ -1,0 +1,58 @@
+Slide 1: Introduction
+Headline: AI Medic Assistance System Overview
+Text: Introducing an AI-driven healthcare tool for diagnosis support, dose calculation, and emergency assistance. Our system enhances accessibility, provides tailored medication suggestions, and connects users to nearby medical help in real time.
+
+Slide 2: Problem Statement
+Headline: Challenges in Healthcare Access & Support
+Text: Many lack easy access to diagnostics, timely consultations, and personalized health guidance. Issues like geographic barriers and real-time medical needs during surgeries impact the quality of care, especially in emergencies.
+
+Slide 3: Solution Outline
+Headline: AI-Powered Medic Support System
+Text: Our AI system offers accessible diagnostics, calculates optimal doses based on age, severity, and symptoms, and recommends generic medicine alternatives. It also provides real-time image analysis and connects users to local healthcare professionals.
+
+Slide 4: Key Features
+Headline: Interactive Diagnosis & Dose Calculation
+Text: The system reads prescriptions to suggest generic alternatives. It interactively gathers additional inputs from users to refine diagnosis and calculates precise doses in variants of 300/500/650mg as required.
+
+Slide 5: Connectivity & Emergency Assistance
+Headline: Instant Support and Medical Connections
+Text: It locates nearby clinical assistance, calls emergency services when necessary, and alerts trusted contacts, family, or home nurses with pre-recorded messages if the user needs urgent help.
+
+Slide 6: Benefits
+Headline: Enhanced Accessibility & Personalized Care
+Text: By integrating advanced AI, the system ensures accurate diagnostics, preventive care, and rapid connection to medical support, helping bridge healthcare gaps and improve response times in emergencies.
+
+
+
+
+Slide 7: Advanced Disease Diagnosis
+Headline: Enhanced Diagnostic Capabilities
+Text: The AI system supports detailed disease diagnosis using inputs from symptoms, medical history, and previous lab reports, helping detect complex diseases early and suggesting further diagnostic tests as needed.
+
+Slide 8: Lab Report Management
+Headline: Automated Lab Report Analysis
+Text: Manages lab reports, identifies anomalies, and highlights abnormal results. The system provides insights based on medical history and alerts users about potential risks, simplifying complex lab data for patients and doctors.
+
+Slide 9: Personalized Diet and Lifestyle Recommendations
+Headline: Diet & Lifestyle Adjustments for Health Management
+Text: Based on diagnoses and conditions, the system recommends tailored diet plans and lifestyle changes. Designed for both preventive care and post-treatment recovery, these plans support long-term health improvements.
+
+Slide 10: Physician & Patient Reference Resources
+Headline: Convenient On-the-Go Reference
+Text: Provides easy lookup for both physicians and patients, including approved medication lists, treatment protocols, and symptom guides. Supports quick decision-making and empowers patients with essential health knowledge.
+
+Slide 11: Research & Treatment Updates
+Headline: Up-to-Date Research & Treatment Insights
+Text: Integrates the latest medical research and treatment protocols, ensuring that the AI assistant suggests current, evidence-based solutions. Helps physicians and patients stay informed on recent advances in disease management.
+
+Slide 12: Pre- & Post-Treatment Guidance
+Headline: Support for Treatment Preparation & Recovery
+Text: Offers recommendations on pre-treatment habits to enhance outcomes and post-treatment care tips to support recovery. This guidance covers exercise, nutrition, and other lifestyle factors for optimal healing.
+
+Slide 13: Summary & Vision for Future Healthcare
+Headline: Towards Smarter, Connected Healthcare
+Text: Our AI medic assistant bridges healthcare gaps, offering personalized support, advanced diagnostics, and real-time connection to medical professionals. Join us in transforming healthcare with accessible, AI-driven solutions.
+
+Slide 14: Conclusion
+Headline: Revolutionizing Healthcare with AI
+Text: Our medic assistance system empowers individuals with accessible, reliable, and real-time medical support, bringing healthcare closer to those who need it most. Together, we’re paving the way to smarter, safer healthcare.
